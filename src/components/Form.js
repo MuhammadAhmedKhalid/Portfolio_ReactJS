@@ -1,10 +1,14 @@
 import React from 'react'
 import './FormStyles.css'
+import { useNavigate } from 'react-router-dom'
 
 const Form = () => {
 
+  const navigate = useNavigate()
+
   const handleSubmit = (e) => {
     e.preventDefault()
+    navigate('/finalScreen')
   }
 
   return (
