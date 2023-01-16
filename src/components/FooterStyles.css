@@ -17,11 +17,11 @@
   flex-direction: column;
   padding: 1rem;
 }
-.location {
+.position {
   display: flex;
   margin-bottom: 0.8rem;
 }
-.location p {
+.position p {
   line-height: 30px;
 }
 .right {
