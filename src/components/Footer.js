@@ -26,7 +26,7 @@ const Footer = () => {
                 </div>
                 <div className='right'>
                     <h4>About the company</h4>
-                    <p>This is me Muhammad Ahmed. CEO & Founder of Tech2 etc. I enjoy dsicussing new projects and design challenges.</p>
+                    <p>This is me Muhammad Ahmed. CEO & Founder of Tech2 etc. I enjoy discussing new projects and design challenges.</p>
                     <div className='socials'>
                         <FaFacebook size={30} style={{ color: '#fff', marginRight: '2rem' }} />
                         <FaTwitter size={30} style={{ color: '#fff', marginRight: '2rem' }} />
